@@ -1,5 +1,12 @@
 # Unclogging A Sink
 
+![image](https://github.com/user-attachments/assets/3a223f35-f0b9-4e3b-9ccd-15e48d26b25a)
+
+
+First steps: 
+* Breathe
+* Write a poem to your pipes to appease them
+
 If you notice that water is not draining from the basin of your sink at all or as quickly as it used to, something is likely blocking the flow of water. To clear it, you will need: 
 
 * Screwdriver or metal coat hanger
@@ -18,7 +25,7 @@ Not all stoppers are the same. Yours may screw off easily or it may appear stuck
 
 If yours is the latter, then you will need to go under your sink and look for a metal arm (it should look like a lollipop with a stick coming out of both sides instead of one.) 
 
-There is a nut that holds this arm in place. Once you have unscrewed and removed it, you should be able to move this metal arm out of the way and take your stopper out of the sink to clear the drain. 
+There is a nut that holds this arm in place. Once you have *unscrewed* and *removed* it, you should be able to move this metal arm out of the way and take your stopper out of the sink to clear the drain. 
 
 When you are done, replace everything where you found it. 
 
@@ -28,7 +35,7 @@ When you are done, replace everything where you found it.
 
 If the sink is still clogged after cleaning the drain, then the blockage may be in the trap. 
 
-To take the trap off, you should look for a ‘U’ shaped pipe under the sink that is held up by two nuts. 
+To take the trap off, you should look for a *‘U’* shaped pipe under the sink that is held up by two nuts. 
 
 Remove the nut that connects the pipe to the sink by unscrewing it, and you should be able to look inside the trap and see if anything has been caught. 
 
